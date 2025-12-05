@@ -154,7 +154,7 @@ You can download and install the latest release APK directly from GitHub:
 👉 **Download APK:**
 
 ```
-https://github.com/CodeWithVedang/true_inbox/releases/download/v1.0/app-release.apk
+https://github.com/CodeWithVedang/true_inbox/releases/download/V1/app-release.apk
 ```
 
 
