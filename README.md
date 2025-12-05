@@ -115,7 +115,7 @@ This is an academic prototype focused on demonstrating mobile ML & SMS safety co
 ---
 
 ## 📁 Project Structure
-
+```
 true_inbox/
 │
 ├── lib/
@@ -131,7 +131,7 @@ true_inbox/
 ├── android/
 ├── pubspec.yaml
 └── README.md
-
+```
 ---
 
 ---
